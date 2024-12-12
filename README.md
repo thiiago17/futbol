@@ -1,5 +1,7 @@
 # WEB DE FUTBOL
 
+-Los archivos de configuracion son ejemplos genericos, en caso de querer utilizar seriamente la web hay que modificar datos como base_url, encryption_key, la conexion a la base de datos, etc.
+
 -El archivo SQL contiene las tablas basicas para el funcionamiento de la web.
 
 -Se puede ver la pagina sin iniciar sesion pero para usar algunas funciones hay que iniciar. Hay 2 usuarios creados, admin y usuario, y ademas en ingresar se puede crear un usuario.
