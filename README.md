@@ -1,6 +1,6 @@
 # WEB DE FUTBOL
 
--Los archivos de configuración incluidos (config.php, database.php, etc.) contienen datos genéricos y no son adecuados para un entorno de producción, en caso de querer utilizar seriamente la web hay que modificar datos como base_url, encryption_key, la conexion a la base de datos, etc.
+-Los archivos de configuración incluidos (config.php, database.php, etc.) contienen datos genéricos a modo de ejemplificacion y no son adecuados para un entorno de producción, en caso de querer utilizar seriamente la web hay que modificar datos como base_url, encryption_key, la conexion a la base de datos, etc.
 
 -El archivo SQL contiene las tablas basicas para el funcionamiento de la web.
 
